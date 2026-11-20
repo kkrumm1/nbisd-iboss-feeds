@@ -1,19 +1,25 @@
 #!/usr/bin/env python3
 """Mirror the FreeDNS (afraid.org) shared-domain registry for iboss.
 
-Source: CodedbyZach/freedns-domain-scraper (hourly scrape of the FreeDNS registry).
+Source: 4ngel2769/freedns.afraid.org-domain-scraper (scheduled scrape of the FreeDNS
+registry, published as a markdown table). The run fails - and keeps the old feeds - if
+the upstream scrape is older than MAX_AGE_DAYS or looks broken.
 Outputs:
   afraid_all_domains.txt     every registry domain (public + private)
   afraid_public_domains.txt  public only (anyone can create subdomains)
 """
-import csv
-import io
+import datetime
 import os
 import re
 import sys
 import urllib.request
 
-SRC = "https://raw.githubusercontent.com/CodedbyZach/freedns-domain-scraper/main/domains.csv"
+SRC = "https://raw.githubusercontent.com/4ngel2769/freedns.afraid.org-domain-scraper/main/domains-alphabetical.md"
+MAX_AGE_DAYS = 14
+ROW_RE = re.compile(
+    r"^\|\s*([a-z0-9.-]+\.[a-z0-9-]+)\s.*?\|\s*(public|private)\s*\|.*?\|\s*(\d+) days ago \((\d\d)/(\d\d)/(\d{4})\)",
+    re.I,
+)
 OUTPUTS = {  # file: (filter, minimum count)
     "afraid_all_domains.txt": (lambda s: True, 15000),
     "afraid_public_domains.txt": (lambda s: s == "public", 3000),
@@ -39,9 +45,21 @@ def main() -> None:
     req = urllib.request.Request(SRC, headers={"User-Agent": "nbisd-iboss-feeds"})
     with urllib.request.urlopen(req, timeout=60) as r:
         text = r.read().decode("utf-8", "ignore")
-    rows = list(csv.DictReader(io.StringIO(text)))
-    if not rows or "status" not in rows[0] or "domain" not in rows[0]:
-        sys.exit("upstream CSV format changed - keeping old feeds")
+    rows, scraped = [], []
+    for line in text.splitlines():
+        m = ROW_RE.match(line)
+        if not m:
+            continue
+        dom, status, ago, mm, dd, yy = m.groups()
+        rows.append({"domain": dom, "status": status})
+        scraped.append(datetime.date(int(yy), int(mm), int(dd)) + datetime.timedelta(days=int(ago)))
+    if not rows:
+        sys.exit("upstream format changed - keeping old feeds")
+    newest = max(scraped)
+    age = (datetime.date.today() - newest).days
+    print(f"upstream scrape date: {newest} ({age} days old)")
+    if age > MAX_AGE_DAYS:
+        sys.exit(f"upstream scrape is {age} days old - keeping old feeds")
 
     clean, dropped = [], []
     for row in rows:
