@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Mirror the PUBLIC FreeDNS (afraid.org) shared domains for iboss.
+"""Mirror the FreeDNS (afraid.org) shared-domain registry for iboss.
 
 Source: CodedbyZach/freedns-domain-scraper (hourly scrape of the FreeDNS registry).
-Keeps only status=public domains (anyone can create subdomains there - where proxies hide).
-Output: afraid_public_domains.txt (one domain per line, sorted)
+Outputs:
+  afraid_all_domains.txt     every registry domain (public + private)
+  afraid_public_domains.txt  public only (anyone can create subdomains)
 """
 import csv
 import io
@@ -13,9 +14,11 @@ import sys
 import urllib.request
 
 SRC = "https://raw.githubusercontent.com/CodedbyZach/freedns-domain-scraper/main/domains.csv"
-OUT = "afraid_public_domains.txt"
-MIN_COUNT = 3000          # sanity floor (registry has ~4,500 public domains)
-MAX_CHANGE = 0.10         # fail if count moves more than 10% vs current file
+OUTPUTS = {  # file: (filter, minimum count)
+    "afraid_all_domains.txt": (lambda s: True, 15000),
+    "afraid_public_domains.txt": (lambda s: s == "public", 3000),
+}
+MAX_CHANGE = 0.10  # fail if a list's count moves more than 10% vs the current file
 DOMAIN_RE = re.compile(r"^[a-z0-9-]+(\.[a-z0-9-]+)+$")
 
 # Never publish these (or anything under them), whatever the upstream list says.
@@ -38,28 +41,34 @@ def main() -> None:
         text = r.read().decode("utf-8", "ignore")
     rows = list(csv.DictReader(io.StringIO(text)))
     if not rows or "status" not in rows[0] or "domain" not in rows[0]:
-        sys.exit("upstream CSV format changed - keeping old feed")
+        sys.exit("upstream CSV format changed - keeping old feeds")
 
-    keep, dropped = set(), []
+    clean, dropped = [], []
     for row in rows:
         d = (row.get("domain") or "").strip().lower().rstrip(".")
-        if row.get("status", "").strip().lower() != "public" or not DOMAIN_RE.match(d):
+        if not DOMAIN_RE.match(d):
             continue
         if protected(d):
             dropped.append(d)
             continue
-        keep.add(d)
+        clean.append((d, (row.get("status") or "").strip().lower()))
+    print(f"upstream rows: {len(rows)}  protected dropped: {dropped or 'none'}")
 
-    n = len(keep)
-    print(f"upstream rows: {len(rows)}  public kept: {n}  protected dropped: {dropped or 'none'}")
-    if n < MIN_COUNT:
-        sys.exit(f"only {n} public domains - keeping old feed")
-    if os.path.exists(OUT):
-        old = sum(1 for line in open(OUT) if line.strip())
-        if old and abs(n - old) / old > MAX_CHANGE and os.environ.get("FORCE") != "1":
-            sys.exit(f"count changed {old} -> {n} (>10%) - keeping old feed; rerun with force to accept")
-    with open(OUT, "w") as f:
-        f.write("\n".join(sorted(keep)) + "\n")
+    results = {}
+    for out, (keep, minimum) in OUTPUTS.items():
+        doms = sorted({d for d, s in clean if keep(s)})
+        n = len(doms)
+        print(f"{out}: {n}")
+        if n < minimum:
+            sys.exit(f"{out}: only {n} domains - keeping old feeds")
+        if os.path.exists(out) and os.environ.get("FORCE") != "1":
+            old = sum(1 for line in open(out) if line.strip())
+            if old and abs(n - old) / old > MAX_CHANGE:
+                sys.exit(f"{out}: count changed {old} -> {n} (>10%) - keeping old feeds; rerun with force")
+        results[out] = doms
+    for out, doms in results.items():
+        with open(out, "w") as f:
+            f.write("\n".join(doms) + "\n")
 
 
 if __name__ == "__main__":
