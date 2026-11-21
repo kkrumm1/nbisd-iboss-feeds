@@ -16,14 +16,28 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build afraid.org lists
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Build afraid.org lists (direct scrape, mirror as fallback)
         env:
           FORCE: ${{ inputs.force && '1' || '0' }}
-        run: python3 scripts/afraid_mirror.py
+        run: |
+          if python3 scripts/afraid_scrape.py; then
+            echo "SOURCE=direct scrape" >> "$GITHUB_ENV"
+          else
+            echo "::warning::Direct scrape failed - falling back to the 4ngel2769 mirror"
+            python3 scripts/afraid_mirror.py
+            echo "SOURCE=mirror" >> "$GITHUB_ENV"
+          fi
 
       - name: Commit if changed
         run: |
@@ -33,6 +47,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "afraid.org feeds $(date -u +%F) (all $(wc -l < afraid_all_domains.txt), public $(wc -l < afraid_public_domains.txt))"
+            git commit -m "afraid.org feeds $(date -u +%F) via $SOURCE (all $(wc -l < afraid_all_domains.txt), public $(wc -l < afraid_public_domains.txt))"
             git push
           fi
