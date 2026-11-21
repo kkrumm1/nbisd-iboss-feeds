@@ -2488,7 +2488,6 @@ maximamedia.md
 maxmir-energy.ru
 maxmir.ru
 maxmirgidro.ru
-maxpowersi.com.ar
 maya24.com.np
 mayroptics.am
 mb-soft.ch
@@ -2501,7 +2500,6 @@ mcruz.cl
 mcwrite.net
 mdanyel.xyz
 mdef.co.kr
-mdq.com.ar
 mdsnapshots.com
 mean.biz
 meatballmanor.com
@@ -3463,7 +3461,6 @@ sachhot.com
 sachikana.net
 sacrebl.eu
 sadler.com.ar
-saeplus.net
 saer-emploi.com
 sagark.com.np
 sagarpandey.com.np
@@ -3686,6 +3683,7 @@ skifi-ns.ru
 skimanshop.it
 skiseltwald.ch
 skoolbuzz.net
+skope.net.au
 skoruppa.org
 skysoft.us
 skytourtw.com

@@ -4819,7 +4819,6 @@ denkverbot.com
 dennford.net
 dennisbethke.com
 dennisdalmas.com
-dennisjalbert.com
 dennisnguyen.me
 dennyandkevin.net
 dentalw.com
@@ -11671,7 +11670,6 @@ maxmir-energy.ru
 maxmir.ru
 maxmirgidro.ru
 maxmorgan.org
-maxpowersi.com.ar
 maxtastic.com
 may54.ru
 maya24.com.np
@@ -11736,7 +11734,6 @@ mdesisto.com
 mdj.space
 mdlab.ru
 mdpaints.co.za
-mdq.com.ar
 mdsmith.info
 mdsnapshots.com
 me-elecmetal.com.ar
@@ -14965,7 +14962,7 @@ qsisto.fi
 qtech.cl
 qth.fi
 qthome.org
-qts.ar
+qtx.ro
 qualeband.com
 qualesk.co.uk
 qualesk.com
@@ -16014,7 +16011,6 @@ sadikshyaadhikari.com.np
 sadip.com.np
 sadler.com.ar
 sadpoets.ch
-saeplus.net
 saer-emploi.com
 safcabinets.com.au
 safelinux.org
@@ -17018,6 +17014,7 @@ skoglump.org
 skolkam.sk
 skoolbuzz.net
 skooliebuild.com
+skope.net.au
 skorinko.ru
 skoruppa.org
 skowvron.us
