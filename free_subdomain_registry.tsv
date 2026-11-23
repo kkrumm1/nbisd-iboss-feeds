@@ -207,7 +207,7 @@ _acme-challenge.s1.api.just.is-a.dev	justdevw	899b1902bb9e04d2982c9920._acme.den
 _acme-challenge.s2.api.just.is-a.dev	justdevw	9365623bfd420f91dd35a79a._acme.deno.dev
 _acme-challenge.s3.api.just.is-a.dev	justdevw	72f9bb52369fe06fb742ee8b._acme.deno.dev
 _acme-challenge.s4.api.just.is-a.dev	justdevw	9df14f9aae45e2e0331e4fdf._acme.deno.dev
-_acme-challenge.saad.is-a.dev	nv8v	955b428e845dda23f230ac36169f002f._acme.deno.net
+_acme-challenge.saad.is-a.dev	nv8v	nv8v.github.io
 _acme-challenge.sc-garry-testing.is-not-a.dev	garry.g@ebizcharge.com	sc-garry-testing.is-not-a.dev.hosting-verify.netsuite.com
 _acme-challenge.scoobis.is-a.dev	getcmdrolled	scoobis.is-a.dev.ed9af149351b14db.dcv.cloudflare.com
 _acme-challenge.scoobis.is-cool.dev	turtletown73	scoobis.is-cool.dev.ed9af149351b14db.dcv.cloudflare.com
@@ -224,6 +224,7 @@ _acme-challenge.www.devspace.reaver.is-a.dev	playreaver
 _acme-challenge.yanle.is-a.dev	Listencur	e2dfdab9-e9b3-466c-8190-7bd129c87489.auth.acme-dns.io
 _acme-challenge.yazan.is-a.dev	vwh	bca763a386bfb0628e65f2de6f766e08._acme.deno.net
 _aster-verify.mshkh.is-a.dev	mshkh-dev	
+_aster-verify.vid.is-a.dev	condshu	
 _atproto.alfi.is-a.dev	alfiwillianz	
 _atproto.alvin.is-a.dev	alvinsjoy	
 _atproto.antonyaraujo.is-a.dev	antonyaraujo	
@@ -302,6 +303,7 @@ _cf-custom-hostname.opycep.kkishor.is-a.dev	kkishor2412-hue
 _cf-custom-hostname.play.sovereign-world.is-a.dev	xwg9scv8d2-hub	
 _cf-custom-hostname.poojaragala.is-a.dev	PoojaRagala	
 _cf-custom-hostname.prakash.is-a.dev	Prakashmaheshwaran	
+_cf-custom-hostname.radar.victorvieira.is-a.dev	VictorCCVieira	
 _cf-custom-hostname.richardxavierqa.is-a.dev	RichardDev883	
 _cf-custom-hostname.sebastianlau.is-a.dev	SebastianLau1	
 _cf-custom-hostname.shitianyang.is-a.dev	ystok66	
@@ -694,6 +696,7 @@ _dmarc.104.is-a.dev	QuinceTart10
 _dmarc.aayushate.is-a.dev	Aayush-Ate	
 _dmarc.abdelkarimaityahia.is-a.dev	karimait12	
 _dmarc.abdulkareem.is-a.dev	abdulkareemakn	
+_dmarc.abdulwahid.is-a.dev	abduIwahid	
 _dmarc.abineethan.is-a.dev	abineethan	
 _dmarc.adaptable.is-a.dev	adaptableCoder	
 _dmarc.adhi.is-a.dev	developeradhi	
@@ -811,6 +814,7 @@ _dmarc.triman.is-a.dev	TrimanSingh
 _dmarc.trix.is-a.dev	tr1xem	
 _dmarc.tsima.is-a.dev	TsimaAndriam	
 _dmarc.victer.is-a.dev	VicterHong	
+_dmarc.vid.is-a.dev	condshu	
 _dmarc.vitordaniel.is-a.dev	vadolasi	
 _dmarc.voda.is-a.dev	voda0461	
 _dmarc.vrdn.is-a.dev	Vardhan-IMMIDI	
@@ -865,6 +869,7 @@ _github-pages-challenge-aalishbaifftikhar.alishba.is-a.dev	aalishbaifftikhar
 _github-pages-challenge-abaan5467.abaan.is-a.dev	Abaan5467	
 _github-pages-challenge-abdalmoniem.abdalmoniem-alhifnawy.is-a.dev	abdalmoniem	
 _github-pages-challenge-abdelrahman-shoeera.abdelrahman-shoeera.is-a.dev	Abdelrahman-Shoeera	
+_github-pages-challenge-abdelrahmanabdelhafiz2-creator.abdelrahmanabdelhafiz.is-a.dev	abdelrahmanabdelhafiz2-creator	
 _github-pages-challenge-abdessattar23.abdessattar.is-a.dev	abdessattar23	
 _github-pages-challenge-abdulazizbalu.balu.is-a.dev	abdulazizbalu	
 _github-pages-challenge-abhishek360007.abhishekraj.is-a.dev	Abhishek360007	
@@ -1816,6 +1821,7 @@ _openai-site-verification.opycep.kkishor.is-a.dev	kkishor2412-hue
 _openai-site-verification.play.sovereign-world.is-a.dev	xwg9scv8d2-hub	
 _openai-site-verification.poojaragala.is-a.dev	PoojaRagala	
 _openai-site-verification.prakash.is-a.dev	Prakashmaheshwaran	
+_openai-site-verification.radar.victorvieira.is-a.dev	VictorCCVieira	
 _openai-site-verification.richardxavierqa.is-a.dev	RichardDev883	
 _openai-site-verification.sebastianlau.is-a.dev	SebastianLau1	
 _openai-site-verification.shitianyang.is-a.dev	ystok66	
@@ -1841,6 +1847,7 @@ _redirect.renewsoton.is-cool.dev	167791450+harilaosk@users.noreply.github.com
 _serveo-authkey.git.vmbbi.is-a.dev	vmbbi	
 _smtp._tls.mshkh.is-a.dev	mshkh-dev	
 _smtp._tls.rohith.is-a.dev	Rohith-Shimori	
+_smtp._tls.vid.is-a.dev	condshu	
 _smtps._tcp.gh0stp4wz.is-a.dev	GH0STP4WZ	
 _spf.mail.zurai02.is-a.dev	zurai02	https://zurai02.is-a.dev
 _submission._tcp.benat.is-a.dev	BenatEiguren	
@@ -2077,6 +2084,7 @@ _vercel.akshayffb.is-a.dev	akshayffb
 _vercel.akshayverma.is-a.dev	Ak-soni2	
 _vercel.akshayy.is-a.dev	VUPPALA-AKSHAY	
 _vercel.akshith.is-a.dev	projectakshith	
+_vercel.akshitsharma.is-a.dev	akshitcode1	
 _vercel.akshtt.is-a.dev	akshtt-dev	
 _vercel.aktanim.is-a.dev	tanim494	
 _vercel.al-nahianhasan.is-a.dev	nahianhasan161	
@@ -2293,7 +2301,6 @@ _vercel.archiebenitez.is-a.dev	Archie-Benitez
 _vercel.archishman.is-a.dev	ArchishmanS2005	
 _vercel.arcibyte.is-a.dev	arcibyte	
 _vercel.ardairmk.is-a.dev	ardairmk55	
-_vercel.arden.is-a.dev	arden1601	
 _vercel.ardhikaputra.is-a.dev	ardhikaptr11	
 _vercel.arem.is-a.dev	Arem-ee	
 _vercel.arfa.is-a.dev	arfa-sk	
@@ -2660,6 +2667,7 @@ _vercel.cosintan.is-a.dev	cosintan-tg
 _vercel.cosmas.is-a.dev	adriancosmas	
 _vercel.cosmicai.is-a.dev	chobesujal	
 _vercel.cosmiclatte.is-a.dev	coslatte	
+_vercel.couldbeharshith.is-a.dev	couldbeharshith	
 _vercel.crack.is-a.dev	Krusherk	
 _vercel.cramirez.is-a.dev	chakkyy	
 _vercel.crazo7924.is-a.dev	crazo7924	
@@ -2723,6 +2731,7 @@ _vercel.davidp.is-a.dev	davidpopesc
 _vercel.davidthed3veloper.is-a.dev	ridikhost	
 _vercel.davis-world.is-a.dev	gutierrezrretamozoj-beep	
 _vercel.davis.is-a.dev	davis-kuriakose	
+_vercel.davo-hq.is-a.dev	davidrodcruz	
 _vercel.davr.is-a.dev	cernoh	
 _vercel.dawood.is-a.dev	dawoodshahzad07	
 _vercel.daxkenyi.is-a.dev	Kenyi001	
@@ -2921,6 +2930,7 @@ _vercel.evdom.is-a.dev	AdamToThe
 _vercel.eve.is-a.dev	yuerei	
 _vercel.eventscrm.is-a.dev	itayshim	
 _vercel.evinbrijesh.is-a.dev	evinbrijesh	
+_vercel.evyatar.is-a.dev	EvyaIL	
 _vercel.exf1l.is-a.dev	exf1L	
 _vercel.exigent-app.is-a.dev	Exigent07	
 _vercel.exlenty.is-a.dev	ExlentyEzz	
@@ -3042,6 +3052,7 @@ _vercel.gautam-prikshit.is-a.dev	prikshitgautam27
 _vercel.gb.is-a.dev	gbijwe	
 _vercel.gcanales.is-a.dev	Gustav0C	
 _vercel.gdkc.is-a.dev	GlitchedDaKittyCatSchoolaccount	
+_vercel.geanayala.is-a.dev	geanayala-01	
 _vercel.geekrover.is-a.dev	geekrover	
 _vercel.geneconceja.is-a.dev	geneconceja	
 _vercel.georgio.is-a.dev	GiorgioKhoury	
@@ -3127,6 +3138,7 @@ _vercel.hamdibenjarrar.is-a.dev	hamdibenjarrar
 _vercel.hamedhussein.is-a.dev	HamedProDev	
 _vercel.hamid.is-a.dev	itshafeezz	
 _vercel.hammad.is-a.dev	Hammad7128	
+_vercel.hammad19.is-a.dev	hammad-m19	
 _vercel.hammadalamgir.is-a.dev	HammadAlamgir007	
 _vercel.hammi.is-a.dev	abouhoraira2006	
 _vercel.hamsa.is-a.dev	HamsaMansour	
@@ -3138,6 +3150,7 @@ _vercel.hamzakhan.is-a.dev	hamzakhan-std25
 _vercel.hamzaqurban-dev.is-a.dev	khankaloohamzakhankaloo-hue	
 _vercel.hamzashahzadchattha.is-a.dev	hamzashahzadchattha	
 _vercel.hanan.is-a.dev	mianhanan56	
+_vercel.hanif.is-a.dev	HanifMuthiarT	
 _vercel.hanjunyi.is-a.dev	KengpachiHa	
 _vercel.haqeemslhn.is-a.dev	julap99	
 _vercel.harajyotisaloi.is-a.dev	harajyotisaloi	
@@ -3673,6 +3686,7 @@ _vercel.kousthubhee.is-a.dev	Kousthubhee
 _vercel.krdevanshu06.is-a.dev	krdevanshu06	
 _vercel.kre0lidge.is-a.dev	Cirkutry	
 _vercel.krebinkkj.is-a.dev	krebinkkj	
+_vercel.kreowlabs.is-a.dev	Djalil-Kreow	
 _vercel.krestik.is-a.dev	krestik	
 _vercel.kripa.is-a.dev	KripaMishra	
 _vercel.krisanth.is-a.dev	Krisanth-21	
@@ -4057,8 +4071,10 @@ _vercel.mohswell.is-a.dev	mohswell
 _vercel.moloy.is-a.dev	iMoloy	
 _vercel.mominulhaquesagar.is-a.dev	mh-sagar74	
 _vercel.moneytosms.is-a.dev	moneytosms	
+_vercel.monika.is-a.dev	Dibyansh27	
 _vercel.monilgoyal.is-a.dev	monil-goyal	
 _vercel.monosen.is-a.dev	Monosen	
+_vercel.morres.is-a.dev	tichelmorres	
 _vercel.morsalin.is-a.dev	emoncse2020	
 _vercel.morsi.is-a.dev	mmorsi4	
 _vercel.mosawer.is-a.dev	mosawerghousi	
@@ -4326,6 +4342,7 @@ _vercel.omairr.is-a.dev	omaiirr
 _vercel.omar-dev.is-a.dev	Omar-0O	
 _vercel.omarfawzy.is-a.dev	shklala	
 _vercel.omarikr.is-a.dev	omarikr	
+_vercel.omarlengliz.is-a.dev	omarlengliz	
 _vercel.omarmarquez.is-a.dev	Trkiller02	
 _vercel.omarmo.is-a.dev	Omarmohammed05	
 _vercel.omarmomani.is-a.dev	momanio	
@@ -4749,6 +4766,7 @@ _vercel.rusbyte.is-a.dev	EricRusselLopez
 _vercel.rusdi.is-a.dev	RusdiEneri	
 _vercel.rushabh.is-a.dev	rushabhcodes	
 _vercel.rushan.is-a.dev	rushanadv	
+_vercel.rushi16.is-a.dev	rusheditz16-code	
 _vercel.rushikesh-shinde.is-a.dev	RushikeshShind	
 _vercel.rushikesh.is-a.dev	patil-rushikesh	
 _vercel.rushil.is-a.dev	rushilvishwakarma	
@@ -4782,6 +4800,7 @@ _vercel.sachith.is-a.dev	sachithdh
 _vercel.sadik.is-a.dev	square-story	
 _vercel.sadman.is-a.dev	Sadman-Samih	
 _vercel.sadmananik.is-a.dev	Sadman-11	
+_vercel.sadramohajer.is-a.dev	sadramohajer27	
 _vercel.saeed-bagnanh.is-a.dev	Saeed-Bagnanh	
 _vercel.safalski.is-a.dev	happilli	
 _vercel.safayet.is-a.dev	safayet35	
@@ -4799,6 +4818,7 @@ _vercel.sahilaltaf.is-a.dev	sahilsx
 _vercel.sahiljais.is-a.dev	capsule11	
 _vercel.sahilkamble.is-a.dev	sahilkamble22387-ux	
 _vercel.sahilsingh.is-a.dev	sadSanta-07	
+_vercel.sahilsoni.is-a.dev	Sahilsonii	
 _vercel.sahilyadav.is-a.dev	SsahilxydD	
 _vercel.sahnoun.is-a.dev	ENSI-Sahnoun	
 _vercel.sahrul.is-a.dev	nyxsr	
@@ -5145,6 +5165,7 @@ _vercel.sr1k7nth.is-a.dev	sr1k7nth
 _vercel.sreeharsha.is-a.dev	Sree-Harsha-PS	
 _vercel.sreesen.is-a.dev	Sreejit-Sengupto	
 _vercel.sreevanth.is-a.dev	Sreevanth9	
+_vercel.srihari-prasath.is-a.dev	Srihari-Prasath	
 _vercel.srikar.is-a.dev	Mystery-Coder	
 _vercel.srinath.is-a.dev	JonnalagaddaSrinath	
 _vercel.srinivas-rc.is-a.dev	srinivas-rc0408	
@@ -5213,6 +5234,7 @@ _vercel.surajpanda.is-a.dev	surajkumarr712
 _vercel.surajsanwal.is-a.dev	suraj235	
 _vercel.surajvyavahare.is-a.dev	suraj-vyavahare	
 _vercel.sureshpradhana.is-a.dev	SureshPradhana	
+_vercel.sush.is-a.dev	moysush	
 _vercel.sushii.is-a.dev	linuskang	
 _vercel.sushovan-ghosh.is-a.dev	MIRACULOUS65	
 _vercel.sushruth.is-a.dev	Sushruth17	
@@ -5503,6 +5525,7 @@ _vercel.vijaysharan.is-a.dev	vjsharan
 _vercel.vikasgupta.is-a.dev	VikasGupta2022	
 _vercel.vikash.is-a.dev	Vortex-16	
 _vercel.vikashv.is-a.dev	codecrypt112	
+_vercel.vikasyadav.is-a.dev	ashishgupta4tech	
 _vercel.vikramaditya.is-a.dev	VikramadityaDev	
 _vercel.vimlinuz.is-a.dev	vimlinuz	
 _vercel.vinay.is-a.dev	vinugawade	
@@ -5633,6 +5656,7 @@ _vercel.yan.is-a.dev	paultanay
 _vercel.yangguang.is-a.dev	liyangguang	
 _vercel.yanis.is-a.dev	YanisCodes	
 _vercel.yashantthakurr.is-a.dev	yashantthakurr	
+_vercel.yashchaudhari.is-a.dev	YashChaudhari999	
 _vercel.yashdev.is-a.dev	yash-pokiya	
 _vercel.yashmaheshwari.is-a.dev	ApexYash11	
 _vercel.yashraj.is-a.dev	yashraj970	
@@ -5734,6 +5758,7 @@ _vercel.zohaibopai.is-a.dev	ZohaibOpai
 _vercel.zold.is-a.dev	AhmedOsamaMath	
 _vercel.zoxbt.is-a.dev	zoom-BT	
 _vercel.zpleum.is-a.dev	zpleum	
+_vercel.zrox.is-a.dev	androdotdev	
 _vercel.ztzt.is-a.dev	ztztmc	
 _vercel.zubariel.is-a.dev	oliverbr0wn	
 _vercel.zulnv.is-a.dev	vietdung97	
@@ -5858,6 +5883,7 @@ abdelmajeed.is-a.dev	abdallah-abdelmajeed	abdallah-abdelmajeed.github.io
 abdelrahim.is-a.dev	Eslam-code-gif	75.2.60.5
 abdelrahman-shoeera.is-a.dev	Abdelrahman-Shoeera	abdelrahman-shoeera.github.io
 abdelrahman.is-a.dev	AI-0o0	ai-0o0.github.io
+abdelrahmanabdelhafiz.is-a.dev	abdelrahmanabdelhafiz2-creator	abdelrahmanabdelhafiz2-creator.github.io
 abderrahim.is-a.dev	elhamdiabderrahim8	elhamdiabderrahim8.github.io
 abdessattar.is-a.dev	abdessattar23	abdessattar23.github.io
 abdi.is-a.dev	abdiopp	abdi-portfolio.web.app
@@ -5885,8 +5911,9 @@ abdullahwp.is-a.dev	mdabdullahr	216.198.79.1
 abdulquddus.is-a.dev	aqdev-tech	abdulquddus.onrender.com
 abdulrahman-dev.is-a.dev	Abdulrahman1808	portfolio-1n5.pages.dev
 abdulrahman.is-a.dev	abdulrahman1s	https://abdulrahman.dev
+abdulrahmanyahya.is-a.dev	aboodiqtr	aboodiqtr.github.io
 abdulsamad.is-a.dev	MrAbdulSamadDEV	abdulsamadd.vercel.app
-abdulwahid.is-a.dev	abduIwahid	cname.vercel-dns.com
+abdulwahid.is-a.dev	abduIwahid	76.76.21.21
 abdur-rahman.is-a.dev	Abdur-Rahman-0517	abdur-rahman-me.netlify.app
 abdur-rakib.is-a.dev	abdur-rakib	abdur-rakib.github.io
 abed.is-a.dev	AbdullatifAladwan	cname.vercel-dns.com
@@ -5955,6 +5982,7 @@ abhishekraj.is-a.dev	Abhishek360007	abhishek360007.github.io
 abhisheksharma.is-a.dev	abhisheksharma-it	my-portfolio-updz.onrender.com
 abhishekshukla.is-a.dev	AbhishekShukla1289	abhishekshukla1289.github.io
 abhisheksoni.is-a.dev	abhisheksoni27	abhishekco.de
+abhishekvishwakarma.is-a.dev	abhigdrv	https://www.abhishekvishwakarma.com
 abhivagadiya.is-a.dev	abhidashdev	216.198.79.1
 abhizeet.is-a.dev	abhizeet17	75.2.60.5
 abhrajitdas.is-a.dev	Abhrajitdas02	abhrajitdas02.github.io
@@ -6317,6 +6345,7 @@ ahmedd.is-a.dev	JhunHoonHimself	216.198.79.1
 ahmedemad.is-a.dev	Ahmed-Abdelhafez98	ahmed-abdelhafez98.github.io
 ahmedgh.is-a.dev	hmed82	216.198.79.1
 ahmedhamdy101.is-a.dev	Ahmed-Hamdy101	cname.vercel-dns.com
+ahmedmahmoud.is-a.dev	ahmed1221069	ahmed1221069.github.io
 ahmedosama.is-a.dev	AhmedOsamaMath	76.76.21.21
 ahmedosamamath.is-a.dev	AhmedOsamaMath	76.76.21.21
 ahmedraza.is-a.dev	ahmedraza-96	cname.vercel-dns.com
@@ -6493,6 +6522,7 @@ akshit-jain.is-a.dev	akshitjain16	https://akshit-jain.netlify.app/
 akshit.ahuja.js.org		ahuja101992.github.io/akshit.ahuja
 akshit.is-a.dev	akshit23	akshitsharma.netlify.app
 akshith.is-a.dev	projectakshith	216.198.79.1
+akshitsharma.is-a.dev	akshitcode1	216.198.79.1
 akshtt.is-a.dev	akshtt-dev	216.198.79.1
 akshya.is-a.dev	LowkeyGUY4444	lowkeyguy4444.github.io
 akta-chavda.is-a.dev	akta-chavda	akta-chavda.github.io
@@ -6649,6 +6679,7 @@ alihvh.is-a.dev	alihvh	alihvh.github.io
 alihxn.is-a.dev	alyhxn	216.198.79.1
 aliimam.is-a.dev	Aliimam10	216.198.79.1
 alijafari.is-a.dev	alijafari-gd	https://alijafari-gd.github.io
+alintras.is-a.dev	alintras	alintras.github.io
 aliozdas.is-a.dev	ali0zdas	https://www.linkedin.com/in/aliozdas/
 alipay.js.org		thenorthmemory.github.io/alipay.js.org
 aliraza.is-a.dev	alirnz	216.198.79.1
@@ -6810,6 +6841,7 @@ amity.is-a.dev	winrg	https://aleteoryx.me
 amjad.is-a.dev	heyitzamjad	185.199.108.153,185.199.109.153,185.199.110.153,185.199.111.153
 ammar.is-a-fullstack.dev	kyssta-exe	216.198.79.1
 ammar.is-cool.dev	kyssta69@gmail.com	216.198.79.1
+ammarkhandoker.is-a.dev	ammarkhandoker25-star	ammarkhandoker25-star.github.io
 ammarsaber.is-a.dev	ammarsaber-dev	ammarsaber-dev.github.io
 ammthecoder.is-a.dev	Aung-myat-min	https://ammthercoder.vercel.app/
 amol.is-a.dev	Amol-B2	amol-portfolio12.netlify.app
@@ -7177,6 +7209,7 @@ api.shockbs.is-a.dev	shockbs	69.30.249.53
 api.swift.is-cool.dev	fyt.official12@gmail.com	202.5.26.189
 api.tapendu.is-a.dev	PalTapendu	72c342e607d5dd5a.vercel-dns-017.com
 api.wood.is-a.dev	hyz	wood.is-a.dev
+api.yocrrz.is-a.dev	YOCRRZ224	14068428038f0588.vercel-dns-017.com
 api.zubariel.is-a.dev	oliverbr0wn	e3fe0ab379df69c8.vercel-dns-017.com
 apicluster.js.org		ramsunvtech.github.io/apicluster
 apihub.is-a.dev	Sush-Singh	216.198.79.1
@@ -7241,6 +7274,7 @@ arafat-suhail.is-a.dev	arafat-suhail-dar	arafat-suhail-dar.github.io
 arafat.is-a.dev	codexarafat	codexarafat.pages.dev
 arafatovi.is-a.dev	ArafatRahmanOvi	216.198.79.1
 arafatrahaman.is-a.dev	Hieser21	portfolio-gh9n.onrender.com
+aram.is-a.dev	aramdetablan-dev	aramdetablan-dev.github.io
 aramcz.is-a.dev	AramCZdev	aramczdev.github.io
 aramos.is-a.dev	al327	al327.github.io
 arandilopez.is-a.dev	arandilopez	arandilopez.me
@@ -7287,7 +7321,6 @@ arctic.js.org		pilcrowonpaper.github.io/arctic
 arda.is-a.dev	ArdaYILDIZ-DEV	https://debian.fenrir-lydian.ts.net/
 ardairmk.is-a.dev	ardairmk55	cname.vercel-dns.com
 ardaninho.is-a.dev	Ardaninho	ardaninho.github.io
-arden.is-a.dev	arden1601	216.198.79.1
 ardhikaputra.is-a.dev	ardhikaptr11	216.198.79.1
 are-you-sure-that-ssnmhjjg.is-a.dev	sddsnmhjjg-ship-it	ssnmhjjg-ez.netlify.app
 are.is-a.dev	aloma6	216.24.57.1
@@ -7530,6 +7563,7 @@ ashkan.is-a.dev	ashkan4472	ashkan4472.github.io
 ashking.is-a.dev	Ashking-tech	ashking-tech.github.io
 ashlesh.is-a.dev	ASHLE5H	216.198.79.1
 ashleymavericks.is-a.dev	ashlyemavericks	https://anuragsingh.dev
+ashleypaul.is-a.dev	paxolovin	https://github.com/paxolovin
 ashmit.is-a.dev	ashmit-tech	melodious-granita-e59259.netlify.app
 ashmitaryan.is-a.dev	ashmit-aryan	ashmit-aryan.github.io
 ashokbiwal.is-a.dev	ashbiwal97	cname.vercel-dns.com
@@ -7576,6 +7610,7 @@ assess-forge.chaitanyashah.is-a.dev	ChaitanyaShah26	115b64c9e107e999.vercel-dns-
 assetgame.8.is-a.dev	FWEEaaaa1	128.204.223.115
 assistant.js.org		coolmlgplayer-js.github.io
 ast.js.org		kindy.github.io/ast
+aster._domainkey.vid.is-a.dev	condshu	
 aster2._domainkey.mshkh.is-a.dev	mshkh-dev	
 asterisk.is-a.dev	ast3risk-ops	https://asterisk.lol
 asthowen.is-a.dev	Asthowen	https://asthowen.fr
@@ -8303,6 +8338,7 @@ bloomy.is-a.dev	BloomyInDev	https://www.bloomyindev.me
 blotter.js.org		bradley.github.io/Blotter
 blox.is-a.dev	soudblox	soudblox.github.io
 bloxy.js.org		visualizememe.github.io/bloxy
+blrsamet.is-a.dev	sametbilir33	sametbilir33.github.io
 blu.js.org		maxherrmann.github.io/blu
 blue.is-a.dev	B1ue-Dev	b1ue-dev.github.io
 blueberry.is-a.dev	NgVGB	ngvgb.github.io
@@ -8574,6 +8610,7 @@ bunyan-fork.js.org		cchamberlain.github.io/bunyan-fork
 bunyan-pmx.js.org		cchamberlain.github.io/bunyan-pmx
 bunyan-serializer.js.org		cchamberlain.github.io/bunyan-serializer
 burak.is-a.dev	burakince	https://www.burakince.com
+burakerensimsek.is-a.dev	simsekerenburak	burakerensimsek.pages.dev
 burakozturk.is-a.dev	burakozturk1	165.245.250.96
 burgmann.is-a.dev	franzbu	franzbu.github.io
 burps.is-a.dev	itslanaa	burps.pages.dev
@@ -9121,6 +9158,7 @@ cmloni.is-a.dev	Chandru2600	chandru2600.github.io
 cmolina.is-a.dev	cmolina	cmolina-dev.pages.dev
 cms.is-local.org	sYnceDez41	4.247.175.27
 cmse7en.is-a.dev	CongMinh77	216.198.79.1
+cmwvoxy.is-a.dev	Muhammad-Wasib-Voxy	cmwvoxy.pages.dev
 cmx.is-cool.dev	admin@cmx.im	s1.cmx.edu.kg
 cmx.is-into.tech	admin@cmx.im	m5.cmx.edu.kg
 cmx.is-local.org	admin@cmx.im	s1.cmx.edu.kg
@@ -9338,6 +9376,7 @@ cota.is-a.dev	zer0uno	https://www.cotanto.it
 cote.js.org		dashersw.github.io/cote
 coto.is-a.dev	adiyatcoto	adiyatcoto.github.io
 cotton.js.org		cottonjs.netlify.app
+couldbeharshith.is-a.dev	couldbeharshith	216.198.79.1
 country.js.org		growmies.github.io/countryjs
 course.is-local.org	dqtfp@hi2.in	66.241.124.129
 cov19.js.org		mixon00.github.io/cov19-cli
@@ -9468,6 +9507,7 @@ cuti.is-a.dev	nhamtybv	nhamty.github.io
 cutt37.is-a.dev	37cut	37cut.github.io
 cuxdi.is-a.dev	cuxdii	cuxdi.pages.dev
 cuzimbisonratte.is-a.dev	CuzImBisonratte	cuzimbisonratte.github.io
+cv.gauthamsam.is-a.dev	gauthammsam57	https://gauthamsam.is-a.dev/cv.html
 cv.rohith.is-a.dev	Rohith-Shimori	https://rohith.is-a.dev/cv.html
 cv.thiruxd.is-a.dev	thiruxd	75.2.60.5
 cv.zjy.is-a.dev	Jingyuan-Zheng	https://jingyuan-zheng.github.io/about-me/
@@ -9733,6 +9773,7 @@ davijunior.is-a.dev	davijunior	187.127.58.151
 davioliveira.is-a.dev	Dom1ng0s	Dom1ng0s.github.io
 davis-world.is-a.dev	gutierrezrretamozoj-beep	cname.vercel-dns.com
 davis.is-a.dev	davis-kuriakose	portfolio-davis-lovat.vercel.app
+davo-hq.is-a.dev	davidrodcruz	216.198.79.1
 davr.is-a.dev	cernoh	neobrutal-resume-vercel.vercel.app
 dawn.js.org		dawnelixir.github.io/dawn.js.org
 dawngs.is-a.dev	victorydawn	dgsbot.pages.dev
@@ -10087,6 +10128,7 @@ did.js.org		ceramicnetwork.github.io/js-did
 diddle.js.org		jylescoad-ward.github.io/diddle.js
 didi.is-a.dev	ddlite92	ddlite92.github.io
 didntpot.is-a.dev	xDidntPot	https://github.com/xdidntpot
+diego-nina.is-a.dev	diegoninam-ship-it	05e6f5bc5c6163c7.vercel-dns-017.com
 diego-rubi.is-a.dev	drubico	drubico.github.io
 diegodepablo.is-a.dev	Diegodepab	216.198.79.1
 diegosanchezchu.is-a.dev	dsanchezchu	personal-portfolio-az7.pages.dev
@@ -10979,6 +11021,7 @@ evinbrijesh.is-a.dev	evinbrijesh	216.198.79.1
 evolutionland.js.org		evolutionlandorg.github.io/js-sdk
 evolutions.js.org		anshumanv.github.io/evolutions-webapp
 evolvefit.phucbao.is-a.dev	tdbaophuc	cname.vercel-dns.com
+evyatar.is-a.dev	EvyaIL	216.198.79.1
 ewa.js.org		lyfeyaj.github.io/ewa
 exa.js.org		realtux.github.io/exa
 examples.whatsup.js.org		whatsup.github.io/examples
@@ -11030,6 +11073,7 @@ ezequiel.is-a.dev	EzequielBoussard	ezequielboussard.pages.dev
 ezestom.is-a.dev	ezestom	cname.vercel-dns.com
 ezoradom.js.org		4614s.github.io/ezoradom-the-functions
 ezra.is-a.dev	ezraclintoc	ezraclintoc.github.io
+ezra77777.is-a.dev	Liyu8040-dev	liyu8040-dev.github.io
 ezzeldeenqutb.is-a.dev	Pant0x	ezzeldeenqutb.vercel.app
 f-root.is-a.dev	Frtsnts10	216.198.79.1
 f.e.d.c.b.a.is-a.dev	FufuUwU	https://bwah.dev
@@ -11292,6 +11336,7 @@ finsight-ai.chaitanyashah.is-a.dev	ChaitanyaShah26	d325db66ff9cbf12.vercel-dns-0
 finsniper.is-a.dev	chocovannii	
 fiozur.is-a.dev	fiozur	fiozur.github.io
 fiozurrahman.is-a.dev	fiozurrahman	fiozurrahman.github.io
+firas.is-a.dev	Firas-by	https://firas-portfolio.firasby2002.workers.dev
 firasglai.is-a.dev	firasglai	portfolio-ewg.pages.dev
 firatkaratasoglu.is-a.dev	frat-karatasoglu	frat-karatasoglu.github.io
 fire-hydrant.js.org		cchamberlain.github.io/fire-hydrant
@@ -11348,6 +11393,7 @@ flipbook-maker.shaurya-singh.is-a.dev	Zmy-Shaurya	985bb4b568f44961.vercel-dns-01
 flipnote.js.org		jaames.github.io/flipnote.js
 flipps.is-a.dev	flipps12	216.198.79.1
 fliw.is-a.dev	fliw	76.76.21.21
+flohaxx.is-a.dev	onichan-ren	onichan-ren.github.io
 flood.js.org		flood.jesec.io
 floodaffection.is-a.dev	floodaffection	custom-domains.chatgpt.site
 floorfrost.is-a.dev	vansh165yt	e7e1c8e5e45a3626.vercel-dns-017.com
@@ -11698,6 +11744,7 @@ gauresh.is-a.dev	gaureshpai	cname.vercel-dns.com
 gaurigandhi.is-a.dev	GauriGandhi200517	GauriGandhi200517.github.io
 gautam-prikshit.is-a.dev	prikshitgautam27	cname.vercel-dns.com
 gautham.is-a.dev	inkilu	inkilu.is-a.dev
+gauthamsam.is-a.dev	gauthammsam57	gauthammsam57.github.io
 gavin.is-a.dev	GavinFerdinandChee	gavinferdinandchee.github.io
 gavin.is-not-a.dev	me@gavinwhite.net	
 gavingogaming.is-a.dev	GavinGoGaming	gavingogaming.github.io
@@ -12180,6 +12227,7 @@ hamid.is-a.dev	itshafeezz	216.198.79.1
 hamidhussain.is-a.dev	hamid1214	hamid-portfolio-57c9a.web.app
 hamidmehrani.is-a.dev	hamidmehrani	hamidmehrani.pages.dev
 hammad.is-a.dev	Hammad7128	75.2.60.5
+hammad19.is-a.dev	hammad-m19	216.198.79.1
 hammadalamgir.is-a.dev	HammadAlamgir007	216.198.79.1
 hammaddev.is-a.dev	hammad-naeem1	hammad-naeem1.github.io
 hammi.is-a.dev	abouhoraira2006	hammi.vercel.app
@@ -12206,6 +12254,7 @@ hanan.is-a.dev	mianhanan56	216.198.79.1
 hanan.js.org		hanandito.github.io/teddypicker
 hanchow.is-a.dev	zhhlmr	zhhlmr.github.io
 handsome.is-a.dev	handsome-guy-here	handsome-guy-here.github.io
+hanif.is-a.dev	HanifMuthiarT	216.198.79.1
 haniya.is-a.dev	HaniyaTT	185.199.108.153,185.199.109.153,185.199.110.153,185.199.111.153
 hanjunyi.is-a.dev	KengpachiHa	216.198.79.1
 hanlu.is-a.dev	live99v	dev.hanlu.im
@@ -12352,6 +12401,7 @@ hastebin.is-local.org	nischay876@gmail.com	frankfurt2.spiderservers.cloud
 hastebin.localplayer.dev	nischay876@gmail.com	frankfurt2.spiderservers.cloud
 hasura-om.js.org		mrspartak.github.io/hasura-om
 hater-of-vectors.is-a.dev	Mortadelo24	https://github.com/Mortadelo24/
+hatim.is-a.dev	Hatim-Rx53	portfolio-372.pages.dev
 hatimelhassak.is-a.dev	hatimhtm	216.198.79.1
 hatkid.is-a.dev	thehatkid	thehatkid.github.io
 hatkidchan.is-a.dev	hatkidchan	5.181.108.112
@@ -12808,7 +12858,7 @@ iammithani.is-a.dev	MuhammadUsmanMithani	iammithani-portfolio.pages.dev
 iamsurajdc.js.org		iamsurajdc.github.io
 iamtarek.is-a.dev	iam-sigma	216.198.79.1
 iamthedefender.is-a.dev	IamTheDefender	https://portfolio-one-ecru-11.vercel.app
-iamtranthanhvu.is-a.dev	iamtranthanhvu	cname.vercel-dns.com
+iamtranthanhvu.is-a.dev	iamtranthanhvu	216.198.79.1
 iamzeus14.is-a.dev	iamzeus14	iamzeus14.github.io
 ian-nganga.is-a.dev	DalzWrld	bd989067c07a08f0.vercel-dns-017.com
 ian.is-a.dev	iancheung0202	https://iancheung.dev
@@ -14111,6 +14161,7 @@ kayef.is-a.dev	Nowazish-Nur-Kayef	75.2.60.5
 kayla.is-a.dev	CyberGen49	https://cybah.me
 kayon.is-a.dev	sleepyrisu	personal-blog-cjw.pages.dev
 kaz.is-a.dev	kazz0001	kazz0001.github.io
+kazihossain.is-a.dev	kazi3000	https://zahidhossain.com
 kazim.is-a.dev	rome2o	kazim-is-a-dev.pages.dev
 kazuma.is-a.dev	AhmedBenAbdallahDev	auberon.vercel.app
 kazuoyk.is-a.dev	KazuoYK	https://github.com/kazuoyk/dev
@@ -14450,6 +14501,7 @@ krdscn-ui.js.org		krdscn-ui.github.io/ui
 kre0lidge.is-a.dev	Cirkutry	cname.vercel-dns.com
 krebinkkj.is-a.dev	krebinkkj	krebinkkj.vercel.app
 kremling.js.org		canopytax.github.io/kremling.js.org
+kreowlabs.is-a.dev	Djalil-Kreow	216.198.79.1,64.29.17.1
 krestik.is-a.dev	krestik	76.76.21.21
 krida.js.org		elvisdsz.github.io/krida
 krimy.is-a.dev	krimy-7	https://www.krishnanishad.com.np
@@ -14555,7 +14607,7 @@ kunsh13.is-a.dev	kunsh13	kunsh13.github.io
 kuntianzhang.is-a.dev	zhangkuntian	216.198.79.1
 kurayami.is-a.dev	Kshock-EP	Kshock-EP.github.io
 kurdor.is-a.dev	1kurdor	1kurdor.github.io
-kurnosikov.is-a.dev	AbrakadabraK	custom-domains.chatgpt.site
+kurnosikov.is-a.dev	AbrakadabraK	217.65.79.33
 kuro.is-a.dev	Kurorin-fs	kurorin-fs.github.io
 kuro.is-cool.dev		cname.vercel-dns.com
 kuroigg.is-a.dev	kuroigg	kuroigg.github.io
@@ -14662,6 +14714,7 @@ lan.js.org		careteenl.github.io/lan
 lanamail.is-local.org	frentayoce@gmail.com	lanaportalmail.pages.dev
 lance.is-a.dev	civilincomps	civilincomps.github.io
 lancemanalo.is-a.dev	lncemnlo	lancemanalo.pages.dev
+lancemroberts.is-a.dev	lmr001	lanceroberts-portfolio-next.pages.dev
 land.is-a.dev	LandWarderer2772	website-zfm.pages.dev
 landonxr.is-a.dev	allplay4k-netizen	https://allplay4k-netizen.github.io/landonxr.github.io/
 landrielportafolio.js.org		arielandriel30.github.io/landrielportafolio
@@ -14862,6 +14915,7 @@ libcurl.js.org		libcurl.pages.dev
 liberaui.js.org		gioelevalori.github.io/liberaui
 libh.js.org		ihasq.github.io/libh
 libin.is-a.dev	FreeCode911	216.198.79.1
+libla.is-a.dev	libla	43.167.220.166
 liboot.is-a.dev	libootnet	https://github.com/libootnet
 libphonenumbers.js.org		libphonenumbers.github.io
 libraflow.is-a.dev	CodersPro1234	https://libra-flow-officiel.vercel.app
@@ -15021,6 +15075,7 @@ locio.js.org		cname.vercel-dns.com
 locionic.is-a.dev	locionic	portfolio-blog-locionic.vercel.app
 locus.is-a.dev	locus-basanta	13.236.118.34
 lof.tamachi.is-a.dev	lakefront5027	my-arbitrage.pages.dev
+logesh.is-a.dev	Logesh051	logesh051.github.io
 logging-server.is-not-a.dev	charlessbird+github@outlook.com	130.162.166.236
 loginlock-portfolio.js.org		chucky22mendoza.github.io/loginlock
 logizel.is-a.dev	Logizel	216.198.79.1
@@ -15444,6 +15499,7 @@ malvin.is-a.dev	Malvin555	malvilo.netlify.app
 malwaremusashi.is-a.dev	MalwareMusashi	m4l3w4r3mus4sh1.pages.dev
 mamun-nishita.is-a.dev	love-mamun	love-mamun.github.io
 mamun.is-a.dev	cyberrvault	mamunvault.netlify.app
+mamunhossen.is-a.dev	mamun-q	mamun-q.github.io
 mamyraoby.is-a.dev	mamyraoby	80.241.212.124
 man-ray.is-a.dev	Manoj8541	https://manoj8541.github.io/Portfolio/
 man.is-a.dev	gameroman	https://rman.dev/
@@ -15544,6 +15600,7 @@ marcel.is-a.dev	BelphegorPrime	216.198.79.1
 marcelalle.is-a.dev	marcelalle-dev	83.229.19.74
 marcelo.is-a.dev	mrajnansky	94.72.167.146
 marcelo.js.org		marcelooggero.github.io/bootstrap
+marcelt.is-a.dev	Marcel-mux	cname.vercel-dns.com
 marcio.is-local.org	alvim.dev4@gmail.com	75.2.60.5
 marcitech.is-a.dev	mzaiger	mzaiger.github.io
 marclosper.is-a-fullstack.dev	lospermarc@gmail.com	marclosper.github.io
@@ -16101,6 +16158,7 @@ minerwolfybtvn.is-a.dev	MinerwolfybtVn	miner-9eu.pages.dev
 minesweeper.js.org		derflatulator.github.io/minesweeper
 mingo.modka.is-a.dev	modkavartini	mingooo.netlify.app
 mingyi.js.org		liangmingyi.github.io
+minhchien.is-a.dev	ct232088-cmd	minhchien-portfolio.netlify.app
 minhhieu.is-a.dev	mhfed	216.198.79.1
 minhmmb.is-not-a.dev	mn9173024@gmail.com	minnb-bit.github.io
 minhoryang.is-a.dev	minhoryang	https://github.com/minhoryang
@@ -16369,6 +16427,7 @@ money-manager.is-a.dev	jorgeaguadero	money-manager.is-a.dev.jorg-xwzb.dns.northf
 moneytosms.is-a.dev	moneytosms	216.198.79.1
 mongez.js.org		hassanzohdy.github.io/mongez-docs
 moni.is-a.dev	monitrr	monitrr.github.io
+monika.is-a.dev	Dibyansh27	216.198.79.1
 monilgoyal.is-a.dev	monil-goyal	216.198.79.1
 monir.is-a.dev	mdmonirhossen6	monirhossen.lovable.app
 monkberry.js.org		monkberry.github.io
@@ -16382,6 +16441,7 @@ monosen.is-a.dev	Monosen	minimalist-portfolio-zeta.vercel.app
 montage.js.org		montagejs.github.io
 monteiro.is-a.dev	edumonteiro-dev	edumonteiro-dev.github.io
 monty.is-a.dev	developercrcodile	developercrcodile.github.io
+moo-mushtaq.is-a.dev	mhamadkrd	https://mohammed-eosin.vercel.app/
 moo28x.is-a.dev	moo28x	75.2.60.5
 moondip.is-a.dev	Moondip-Konwar	moondip-konwar.github.io
 moonlightdb.js.org		ff8204bc04-hosting.gitbook.io
@@ -16399,6 +16459,7 @@ moro.js.org		omidfi.github.io/moro
 morocco.js.org		moroccojs.github.io
 moropanetaxi.is-local.org	jakoalberts@gmail.com	162.0.217.78
 morr.is-a.dev	P-a-c-i-f-i-s-t	130.61.37.205
+morres.is-a.dev	tichelmorres	216.198.79.1
 morsalin.is-a.dev	emoncse2020	216.198.79.1
 morse.js.org		the-silver-project.github.io/morse
 morsi.is-a.dev	mmorsi4	mmorsi.vercel.app
@@ -16741,6 +16802,7 @@ nadirashvili.is-a.dev	Nadirashvil1	Nadirashvil1.github.io
 naeem-patel.is-a.dev	patelnaeem7	patelnaeem7.github.io
 naeem.is-a.dev	naeem5877	216.198.79.1
 naeem110.is-a.dev	Naeem0000000	110portfolio.netlify.app
+naer.is-a.dev	nourak16	nourak16.github.io
 naextro.is-a.dev	naextro	216.198.79.1
 naffy.is-a.dev	knownasnaffy	https://barinderpreet.com
 nafi.is-a.dev	sa-nafi	sa-nafi.github.io
@@ -17584,6 +17646,7 @@ omarfawzy.is-a.dev	shklala	76.76.21.21
 omari.is-a.dev	omariomari2	omariomari2.github.io
 omarikr.is-a.dev	omarikr	216.198.79.1
 omarjaber.is-a.dev	omarHJ	omarhj.github.io
+omarlengliz.is-a.dev	omarlengliz	216.198.79.1
 omarmarquez.is-a.dev	Trkiller02	cname.vercel-dns.com
 omarmo.is-a.dev	Omarmohammed05	216.198.79.1
 omarmomani.is-a.dev	momanio	cname.vercel-dns.com
@@ -17916,6 +17979,7 @@ patrick.is-a.dev	davidsneighbour	https://kollitsch.dev/
 patrickleehua.is-a.dev	patrickleehua	patrickleehua.github.io
 patriuscastro.is-a.dev	PatriusCastro	75.2.60.5
 patryk.is-a.dev	patrykburger	dihygzx3tp3j0.cloudfront.net
+pattar.is-a.dev	kaktuti895-cpu	kaktuti895-cpu.github.io
 pau.is-a.dev	paugp	https://pau.dev/
 paul.is-a.dev	NotKaskus	https://paulandrew.vercel.app/
 paul.is-pro.dev	0xcyberpj	cyberpj.is-a.dev
@@ -18786,6 +18850,7 @@ racknerdcdnzxu.is-cool.dev	zach.xu1987@gmail.com	104.168.11.37
 racknerdzxu.is-local.org	zach.xu1987@gmail.com	104.168.11.37
 ractive.js.org		ractivejs.github.io
 rad.js.org		rapid-application-development-js.github.io/RAD.JS
+radar.victorvieira.is-a.dev	VictorCCVieira	custom-domains.chatgpt.site
 radashi.js.org		radashi-org.github.io
 radhakishan404.is-a.dev	radhakishan404	radhakishan404.github.io
 radheshyam.is-a.dev	Radhe-jangir	216.198.79.1
@@ -19292,6 +19357,7 @@ request.js.org		request.gitbooks.io
 reroll.is-cool.dev	christophe.tappret@gmail.com	141.145.207.220
 resafe.js.org		ofabiodev.github.io/resafe
 research.sahancs.is-a.dev	Sahan-Chathumina-25	Sahan-Chathumina-25.github.io
+research.yashchaudhari.is-a.dev	YashChaudhari999	edf8843a16771eb6.vercel-dns-017.com
 researcx.is-a.dev	researcx	207.127.95.80
 reselect.js.org		reselect-docs.netlify.app
 resend._domainkey.aayushate.is-a.dev	Aayush-Ate	
@@ -19424,6 +19490,7 @@ rgbstrip.js.org		xrealneon.github.io/RGBStrip
 rgzpaul.is-a.dev	rgzpaul	https://rodry.dev
 rhafadarma.is-a.dev	RhaDar12	rhadar12.github.io
 rhalza.is-a.dev	rhalza	rhalza.github.io
+rhemystudios.is-a.dev	mariosmart1532-ctrl	rhemystudios.netlify.app
 rhenels.is-a.dev	Tetsuuya	216.198.79.1
 rhenelsajol.is-a.dev	Tetsuuya	cname.vercel-dns.com
 rhoy.is-a.dev	oluwabukola2610	mudashir-rhoy.vercel.app
@@ -19650,6 +19717,7 @@ roj.is-a.dev	roj1512	https://roj.im
 rojan.is-a.dev	Rojan248	rojan248.github.io
 rokartur.is-a.dev	rokartur	https://github.com/rokartur
 roki.is-a.dev	Roki100	edge.redirect.pizza
+rokone.is-a.dev	alanisdbd046-hash	alanisdbd046-hash.github.io
 rolf.is-a.dev	rolpppp	fabulous-sopapillas-d53571.netlify.app
 rom.is-a.dev	gameroman	https://rman.dev/
 roma.is-a.dev	gameroman	https://rman.dev/
@@ -19805,6 +19873,7 @@ rusdi.is-a.dev	RusdiEneri	216.198.79.1
 rushabh.is-a.dev	rushabhcodes	rushabhpatil.vercel.app
 rushan.is-a.dev	rushanadv	216.198.79.1
 rushi.is-a.dev	rushi0n	rushi0n.github.io
+rushi16.is-a.dev	rusheditz16-code	216.198.79.1
 rushifjhgfrth.is-a.dev	emiko-coder	https://github.com/emiko-coder
 rushikesh-shinde.is-a.dev	RushikeshShind	cname.vercel-dns.com
 rushikesh.is-a.dev	patil-rushikesh	216.198.79.1
@@ -19938,6 +20007,7 @@ sadiq.is-not-a.dev	abdullatifsadiq21@gmail.com	sadiq-ten.vercel.app
 sadkon.is-a.dev	MohammedKHC0	sadkon.gitlab.io
 sadman.is-a.dev	Sadman-Samih	216.198.79.1
 sadmananik.is-a.dev	Sadman-11	216.198.79.1
+sadramohajer.is-a.dev	sadramohajer27	216.198.79.1
 sae.is-a.dev	mesae00	mesae00.github.io
 saeed-bagnanh.is-a.dev	Saeed-Bagnanh	cname.vercel-dns.com
 saeed.is-a.dev	MohammedKHC0	sheikh-saeed.pages.dev
@@ -19981,6 +20051,7 @@ sahilister.js.org		sahilister.github.io/portfolio
 sahiljais.is-a.dev	capsule11	216.198.79.1
 sahilkamble.is-a.dev	sahilkamble22387-ux	cname.vercel-dns.com
 sahilsingh.is-a.dev	sadSanta-07	216.198.79.1
+sahilsoni.is-a.dev	Sahilsonii	216.198.79.1
 sahilyadav.is-a.dev	SsahilxydD	216.198.79.1
 sahnoun.is-a.dev	ENSI-Sahnoun	216.198.79.1
 sahooshuvranshu.is-a.dev	SahooShuvranshu	sahooshuvransu.github.io
@@ -20716,6 +20787,7 @@ shamimahmedrobin.is-a.dev	shamimahmedrobin	216.198.79.1
 shamimrobin.is-a.dev	shamimahmedrobin	216.198.79.1
 shamit.is-a.dev	iamshamit	portfolio-react-qpv8.onrender.com
 shamith.is-a.dev	cheerlashamith	shamith-portfolio.netlify.app
+shamiulla.is-a.dev	Sham4u2	Sham4u2.github.io
 shan.is-a.dev	Adwaith-Shan-Pk	
 shandler.js.org		hosting.gitbook.io
 shane.is-a.dev	onlyPureYogurt	onlypureyogurt.github.io
@@ -21523,6 +21595,7 @@ sreevanth.is-a.dev	Sreevanth9	cname.vercel-dns.com
 sri-maker.js.org		rohit-chouhan.github.io/sri-maker
 sri-shasum.js.org		imcotton.github.io/sri
 sri.js.org		jackub.github.io/subresource-integrity-fallback
+srihari-prasath.is-a.dev	Srihari-Prasath	216.198.79.1
 srihari.is-a.dev	srhr17	srhr17.github.io
 sriharshapn.is-a.dev	sriharshapn	sriharshapn.github.io
 srikar.is-a.dev	Mystery-Coder	cname.vercel-dns.com
@@ -21805,6 +21878,7 @@ suman.js.org		devsumanmdn.github.io
 sumankarmakar.is-a.dev	SumanKarmakar467	cname.vercel-dns.com
 sumanmahata.is-a.dev	suman876-ops	suman876-ops.github.io
 sumant.is-a.dev	pegasis470	216.198.79.1
+sumanth.is-a.dev	ThunderShadows	thundershadows.github.io
 sumanyadav.is-a.dev	xisense0101	216.198.79.1,64.29.17.1
 sumeer-khattar.is-a.dev	EobardThawne2	cname.vercel-dns.com
 sumeet.is-a.dev	sumeet86s3	my-portfolio-website-psi-flax-76.vercel.app
@@ -21898,6 +21972,7 @@ suryansh-suman.is-a.dev	Sugam1812	sugam1812.github.io
 suryansh.is-a.dev	iamsuryanshxd	https://github.com/iamsuryanshxd
 suryasiddamurthi.is-a.dev	Roadmast	roadmast.github.io
 susee.js.org		cname.vercel-dns.com
+sush.is-a.dev	moysush	216.198.79.1
 sushankghimire.is-a.dev	Sushank-ghimire	https://www.ghimiresushank.com.np
 sushant.is-a.dev	sushantdasputepatil	sushantdasputepatil.github.io
 sushant.is-cool.dev	sus_007@ymail.com	185.199.108.153,185.199.109.153,185.199.110.153,185.199.111.153
@@ -21924,6 +21999,7 @@ suvidhajs.is-cool.dev	ishwargowda100@gmail.com	cname.vercel-dns.com
 svelkit.js.org		kenoxa.github.io/svelkit
 svelte-aplayer.js.org		fengkx.github.io/svelte-aplayer
 svelte-cookie-consent.js.org		sebaofficial.github.io/svelte-cookie-consent
+svelte-dnd.js.org		svelte-dnd.pages.dev
 svelte-eagleeye.js.org		webkrafters.github.io/svelte-eagleeye
 svelte-formup.js.org		kenoxa.github.io/svelte-formup
 svelte-lightbox.js.org		cname.vercel-dns.com
@@ -22343,6 +22419,7 @@ thanh.is-a.dev	shayneeo	https://0.id.vn
 thanhhd.is-a.dev	thanhdicode	thanh-huynh-portfolio.onrender.com
 thanhhuynh.is-a.dev	thanhdicode	thanh-huynh-portfolio.onrender.com
 thankywe.is-a.dev	Than890	cname.vercel-dns.com
+thant-lwin-maung.is-a.dev	MrThantdgaf	75.2.60.5
 thanzeer-j.is-a.dev	Thanzeerwork	216.198.79.1
 thargor.is-a.dev	tharg0r	https://kochsystems.de
 tharindu.is-a.dev	tharindusathis	tharindusathis.github.io
@@ -22778,6 +22855,7 @@ tsorm.js.org		zhangguanghuicoder.github.io/tsorm
 tsu.is-a.dev	tsu-ld	https://tsu.ar
 tsubasa.js.org		tsubasa.netlify.app
 tsx-browser-compiler.js.org		rexskz.github.io/tsx-browser-compiler
+tt-finetune.is-a.dev	danielisraeli2409-jpg	https://pi5-1.tail0b7ef2.ts.net/
 tt.js.org		redyetidev.github.io/terminaltools
 ttag.js.org		ttag-org.github.io/ttag
 ttgprotect.js.org		ttgprotect.github.io
@@ -23412,6 +23490,7 @@ vikasgupta.is-a.dev	VikasGupta2022	cname.vercel-dns.com
 vikash.is-a.dev	Vortex-16	216.198.79.1
 vikashv.is-a.dev	codecrypt112	216.198.79.1
 vikaspal.is-a.dev	vikaspal1704	vikaspal1704.github.io
+vikasyadav.is-a.dev	ashishgupta4tech	cname.vercel-dns.com
 vikipranata.is-a.dev	vikipranata	vikipranata.github.io
 vikkiez.is-a.dev	VikkiezDev	75.2.60.5
 vikram.is-a.dev	vikramisdev	vikramisdev.netlify.app
@@ -23792,6 +23871,7 @@ wechaty.js.org		wechaty-js-org.pages.dev
 wedgetail.js.org		wedgetail.netlify.app
 wedha.is-a.dev	wedha-prabha	216.198.79.1
 weebo64.is-a.dev	weebo6464	weebo6464.github.io
+weedprofit.is-a.dev	Weedprofitmc	185.47.142.171
 weekly.js.org		xdimh.github.io/weekly
 wei0911.is-a.dev	Starmoon0911	216.198.79.1
 wekuz.localplayer.dev	wekuz@duck.com	
@@ -24382,6 +24462,7 @@ www.sushil.is-a.dev	SushilChandaragi	sushilchandaragi.netlify.app
 www.syedmukheeth.is-a.dev	syedmukheeth	7098beaab2ee47d6.vercel-dns-017.com
 www.syncwithraj.is-a.dev	SyncWithRaj	91799c78f5cb6511.vercel-dns-017.com
 www.tanuj-nagpal.is-a.dev	tanuj101	tanuj101.netlify.app
+www.thant-lwin-maung.is-a.dev	MrThantdgaf	guileless-lily-0c4534.netlify.app
 www.thanzeer-j.is-a.dev	Thanzeerwork	d193c1f5632c04c9.vercel-dns-017.com
 www.thatoneumer.is-a.dev	thatoneumer	83f89de81177d0bb.vercel-dns-017.com
 www.thealonemusk.is-a.dev	thealonemusk	367b40d87a68e9ac.vercel-dns-017.com
@@ -24687,6 +24768,7 @@ yeasin.is-a.dev	yeasiin	yeasin.netlify.app
 yedu.is-a.dev	YedukrishnanTY	cname.vercel-dns.com
 yeetedwin.is-a.dev	YEETEDWIN	yeetedwin.github.io
 yejinkim.is-a.dev	jennienn	216.198.79.1
+yelmeki.is-a.dev	Youness331	younesselmeki.vercel.app
 yelwin.is-a.dev	yelwin3098	cname.vercel-dns.com
 yemmyharry.is-a.dev	yemmyharry	yemmyharry.github.io
 yemzikk.is-a.dev	yemzikk	https://yemzikk.in/
@@ -24918,6 +25000,7 @@ zarwin.is-a.dev	zarwin	zarwin.github.io
 zatoga.is-cool.dev	tamoghnak13@gmail.com	zatoga.pages.dev
 zax.is-a.dev	zaxerion	
 zay.is-a.dev	zayzzay	zayzzay.github.io
+zayan-assist.is-a.dev	zayan123ahm	zayan-assist.netlify.app
 zayan.is-a.dev	zayanbnziz28-ui	cname.vercel-dns.com
 zayd.is-a.dev	Zaydme	cname.vercel-dns.com
 zb2b.is-a.dev	zb2b	218.144.195.104
@@ -25175,6 +25258,7 @@ zplusfour.is-a.dev	zplusfour
 zqdevs.is-a.dev	Seigh-sword	ziqodevs.pages.dev
 zreoecho.is-a.dev	burzlaffjaneen	burzlaffjaneen.github.io
 zrlabs.is-a.dev	zeusricote	130.110.234.36
+zrox.is-a.dev	androdotdev	216.198.79.1
 zrpc.is-a.dev	zrPchan	zrpchan.github.io
 zstg.is-a.dev	zstg	zstg.github.io
 zt.is-a.dev	Zcodeoooo	zcodeoooo.github.io
