@@ -1241,6 +1241,7 @@ apariciocarrer.com.ar
 apartamentbailefelix.ro
 apartcirrus.com
 apartcirrus.com.ar
+aparthotelayres.com
 apartment-wizard.com
 apd-transport.com
 apdoms.com
@@ -1268,8 +1269,6 @@ apolox.cl
 aportas.cl
 app-agroid.cl
 app-solutions.pl
-appellewill.ca
-appellewill.com
 appia.com.au
 appinweather.au
 appix.net.br
@@ -3424,7 +3423,6 @@ cheesemobile.com
 cheesemobile.net
 cheetux.org.il
 cheezies.hk
-chefdeletat.com
 cheffatass.com
 cheftayebeh.ir
 chekanov.net
@@ -3814,7 +3812,6 @@ codemode.cl
 codenode.hu
 codeopen.pl
 codephyle.com
-codex-bot.com
 codi.com.ar
 coding.ro
 codsoftware.com
@@ -3970,7 +3967,6 @@ confarbled.net
 conferencenorth.com
 confessionsfromtheclassroom.com
 confiarriendo.cl
-coni.com.tr
 conifera.cl
 conisoft.ro
 conklinfamily.com
@@ -5431,7 +5427,6 @@ dustcloud.us
 dusthost.de
 dusvol88.com
 duta.biz
-dutz.ro
 dutzzu.ro
 duwadikrishna.com.np
 dvbingenieria.com
@@ -6406,7 +6401,6 @@ farmaservicios.com.ve
 farmernepal.com.np
 farmhellas.eu
 farted.net
-faryne.tw
 fascn8.com
 fashionbook.ir
 fashionbooks.ir
@@ -8902,7 +8896,6 @@ inredware.com.ar
 insanitize.com
 insausti.cl
 inserco.cl
-insermase.net
 insiderful.com
 insight-software.co.uk
 insightpartners.sk
@@ -9275,7 +9268,6 @@ jafva.com
 jagau.cc
 jagdambasynthetics.com.np
 jagergroup.ro
-jah.ro
 jahanradyab.ir
 jaherin.com
 jahovaos.com
@@ -13597,7 +13589,6 @@ optimizare-promovare.ro
 optimumequip.com.au
 optimuswide.com
 optinvest.be
-optioflow.com
 optioway.com
 optixconsulting.co.uk
 optland.com
@@ -14317,7 +14308,6 @@ pir8.im
 piragis.net
 piratewan.com
 pirraglia.com.ar
-pisi.cat
 piskuno.com
 pissurno.com
 pistinfo.hu
@@ -16407,7 +16397,6 @@ sealesnet.com
 sealevelscience.com
 sealswim.com.au
 seanadams.com
-seanbrogan.org
 seanbrogan.xyz
 seanmacpherson.co.uk
 seanvanderwier.com
@@ -20690,7 +20679,6 @@ yrims.com
 yrpeace.org
 ysrventure.com
 ytrium.com.ar
-yu-jen.tw
 yuanfanghu.net
 yuanfey.com
 yubi.in
