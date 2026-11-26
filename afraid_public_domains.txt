@@ -944,7 +944,6 @@ databytes.org
 datacenter.ar
 datagrid.cl
 datamining.cl
-dataon.cl
 datasystemsdesign.ro
 dateeasily.com
 daustin.com
@@ -3870,7 +3869,6 @@ szerelo9.hu
 t411.me
 tabaninsaat.com.tr
 tafga.ch
-tailingclosure.com
 taltonwalker.com
 tamarindo.net
 taniadomena.eu

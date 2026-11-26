@@ -4542,7 +4542,6 @@ dataklont.nl
 datalump.net
 datamapp.cl
 datamining.cl
-dataon.cl
 dataspot.org
 datasystem.ch
 datasystemsdesign.ro
@@ -10657,7 +10656,6 @@ lets-be-real.com
 letscreatea.com
 letseat.rocks
 lettenmair.com
-lettragemarceau.com
 letueurcache.ca
 letzte.at
 levanovich.com.ar
@@ -17994,7 +17992,6 @@ tahuri.ar
 tahuri.com.ar
 taiing.net
 taildragger.org
-tailingclosure.com
 tailkinker.net
 tailoi.net
 tait.com.ar
