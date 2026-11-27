@@ -1073,8 +1073,6 @@ dka.com.np
 dkewat.com.np
 dkoli.com.np
 dl748.me
-dlvan.ar
-dlvan.com.ar
 dm-sch09.org.ru
 dmazzola.com
 dmtr.ru
@@ -2943,7 +2941,6 @@ pakasak.com
 palandi.com.br
 palibit.ru
 pallav.com.np
-palomadi.ar
 palvelin.net
 palypro.com
 pamelaortiz.cl
@@ -4186,7 +4183,6 @@ valejo.net
 valheim.co.za
 vampi.info
 vandsgroup.com
-vandyselo.ar
 vanitydomain.co.uk
 vanitypanels.com
 vanmeir.ch
