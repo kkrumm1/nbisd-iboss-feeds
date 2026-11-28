@@ -442,7 +442,6 @@ bewusstairleben.ch
 bfbsystems.net
 bfcontrol.com.mx
 bgsys.co.kr
-bh-r.ch
 bhandaridinesh.com.np
 bhandariupakar.com.np
 bhawaniniroula.com.np
@@ -878,7 +877,6 @@ crum-family.com
 cryodome.com
 cryptellegram.com
 crystaldev.cl
-csaba-zvekan.ch
 csdue.it
 csfl.eu
 csmv.cl
@@ -2535,7 +2533,6 @@ miguelarevalo.es
 miguelcatalano.com.ar
 miguelrsilva.com
 mik.id.lv
-mikailou.com
 mikata.ru
 mikealesso.com
 mikechan.ca
@@ -2682,7 +2679,6 @@ mynetw0rk.com
 myok.eu
 mypjnr.org
 myremotecentral.com
-mysaol.com
 mystakidis.com
 mystakidis.gr
 mystora.su
@@ -4100,6 +4096,7 @@ tuorganizas.com.br
 tuplantaforma.com
 tuquy.com
 turismofutaleufu.cl
+turkceicerik.com
 turknafld.com
 tutifruta.pt
 tuty.ru
